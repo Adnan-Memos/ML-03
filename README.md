@@ -1,19 +1,21 @@
 # Real-Time Accident Detection in Traffic Surveillance (Pr/5)
 
-## Description
+## Overview  
+The *Real-Time Accident Detection in Traffic Surveillance* project leverages deep learning (CNN) and Python to detect traffic accidents in real-time. This system aims to enhance road safety by enabling rapid emergency response, minimizing casualties, and reducing the impact of road accidents. This innovative approach addresses the challenges of increasing vehicle numbers and accidents, particularly in high-risk regions.  
 
-Real-Time Accident Detection in Traffic Surveillance using DL is a VI-Sem B.E. IT CBIT Minor Project
+## Completion Date  
+May 2024  
 
-## Completion Date
+## Tools and Technologies  
+Deep Learning, Convolutional Neural Networks (CNN), Python, Jupyter Notebook  
 
-Completed in May 2024. 
+## Keywords  
+Real-Time Detection, Traffic Surveillance, Accident Detection, Deep Learning, CNN, Emergency Response, Road Safety  
 
-## Introduction
-
-The rise in global vehicle numbers underscores the urgency of addressing road accidents, a leading cause of fatalities. Using deep learning like CNN and Python, real-time accident detection facilitates rapid emergency response, minimizing casualties and enhancing road safety. Despite efforts to promote safe driving, accidents persist, particularly in regions like India with rapid vehicle growth.Automatic accident detection and immediate notifications to emergency services are vital for saving lives and reducing accidents' impact. This approach is essential for safeguarding lives and improving road safety worldwide.
+## Dataset  
+Video file: **Accidents-1.mp4**
 
 ## Installation
-
 1. Clone the repository
 
 ```bash
@@ -22,16 +24,9 @@ https://github.com/Adnans-Design-Niche/ML-03.git
 
 2. Run the Jupyter Notebook
 
-## Dataset
-
-Given Accidents-1.mp4 video
-
 ## Presentation
-
 [https://tome.app/adnans-home/real-time-accident-detection-in-traffic-surveillance-using-deep-learning116-135-clw62yyyw01bkmr5x4ly9q2bu](https://tome.app/adnans-home/real-time-accident-detection-in-traffic-surveillance-using-deep-learning116-135-clw62yyyw01bkmr5x4ly9q2bu)
 
 ## Contributors
-
-Mohammed Adnan Siddiqui
-
-Raj Kumar Reddy
+*Mohammed Adnan Siddiqui*
+*Raj Kumar Reddy*
